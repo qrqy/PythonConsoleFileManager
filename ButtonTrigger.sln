@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ButtonTrigger", "ButtonTrigger\ButtonTrigger.pyproj", "{8454CCCE-1659-4C23-8761-AD1FC40DB770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8454CCCE-1659-4C23-8761-AD1FC40DB770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8454CCCE-1659-4C23-8761-AD1FC40DB770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE4588A-B1AC-4EB4-BD25-F91FE1F57C05}
+	EndGlobalSection
+EndGlobal
